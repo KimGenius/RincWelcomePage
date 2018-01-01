@@ -88,3 +88,43 @@ a {
     background-color: #ffffff;
     border: solid 2px #ffffff;
 }
+
+.login-box .check-login-status {
+    width: 100%;
+    color: #ffffff;
+    margin-top: 1.5rem;
+    font-size: 1rem;
+}
+
+.login-box .check-login-status input {
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    margin-right: .3rem;
+}
+
+.login-box-sub {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.login-box-sub a {
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 1rem;
+    display: block;
+    margin-bottom: .3rem;
+}
+
+.text-highlight {
+    color: #ff6f00;
+}
+
+.copyright {
+    position: absolute;
+    bottom: 2rem;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+}
